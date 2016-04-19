@@ -15,4 +15,7 @@ public class Klasa {
     public Klasa(int liczba){
         this.liczba = liczba;
     }
+    public String toString(){
+        return "" + liczba;
+    }
 }
