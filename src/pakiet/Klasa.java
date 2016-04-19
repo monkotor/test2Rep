@@ -16,6 +16,6 @@ public class Klasa {
         this.liczba = liczba;
     }
     public String toString(){
-        return "" + liczba + alfa;
+        return "" + liczba + alfa + alfa;
     }
 }
