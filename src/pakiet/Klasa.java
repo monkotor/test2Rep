@@ -18,4 +18,7 @@ public class Klasa {
     public String toString(){
         return "" + liczba;
     }
+    public int getLiczba(){
+        return liczba;
+    }
 }
