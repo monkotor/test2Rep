@@ -19,6 +19,6 @@ public class Klasa {
         return "" + liczba + alfa;
     }
     public int getLiczba(){
-        return liczba;
+        return liczba+liczba;
     }
 }
