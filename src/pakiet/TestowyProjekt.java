@@ -5,6 +5,8 @@
  */
 package pakiet;
 
+import java.util.Scanner;
+
 /**
  *
  * @author B
@@ -16,6 +18,9 @@ public class TestowyProjekt {
      */
     public static void main(String[] args) {
         System.out.println("hello");
+        int alfa;
+        Scanner sc = new Scanner(System.in);
+        alfa = sc.nextInt();
     }
     
 }
