@@ -12,6 +12,7 @@ package pakiet;
 public class Klasa {
     int liczba;
     long alfa;
+    float p;
     public Klasa(int liczba){
         this.liczba = liczba;
     }
